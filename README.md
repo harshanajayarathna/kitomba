@@ -18,5 +18,8 @@ $ git clone https://github.com/harshanajayarathna/kitomba
 # if you want to run the input set 1, comment the other input sets (2 and 3)
 
 
+## Way of Design the task
+
+
 
 
